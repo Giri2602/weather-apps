@@ -50,7 +50,7 @@ Details: `/details?city=XYZ` - Shows weather details
 About: `/about` - Describes the project and stack
 
 🌐 API Reference
-Base URL: https://api.openweathermap.org/data/2.5/weather
+Base URL: https://api.openweathermap.org
 Parameters: q (city), lat/lon, appid, units=metric
 
 🔒 Environment Variables
