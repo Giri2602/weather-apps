@@ -1,5 +1,6 @@
 🌤️ Weather Web Application - Internship Submission
-This is a full-stack weather application built as part of the Web Development Internship – Coding Round. 
+
+This is a full-stack weather application built as part of the Web Development. 
 It provides real-time weather data using the OpenWeatherMap API and allows users to search cities, view weather conditions, and track search history.
 
 🚀 Features
@@ -9,6 +10,7 @@ It provides real-time weather data using the OpenWeatherMap API and allows users
 - 🗺️ Weather details shown on a separate page
 - 🧾 About page with tech stack and info
 - 💅 Responsive UI with custom plain CSS
+  
 🧱 Tech Stack
 Frontend: Next.js (React-based)
 Backend: Node.js with Express.js
